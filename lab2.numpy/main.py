@@ -20,7 +20,9 @@ def create_matrix():
 
 def reshape_vector(vec):
     """
+
     """
+    a=
     return
 
 
